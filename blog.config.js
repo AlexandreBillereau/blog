@@ -1,6 +1,6 @@
 const BLOG = {
   title: "Alexandre Billereau",
-  author: "alexandre billereau",
+  author: "alexandre billereau - ChunkLab",
   email: "alexandre.website.billereau@gmail.com",
   link: "",
   description: "This gonna be an awesome website.",
