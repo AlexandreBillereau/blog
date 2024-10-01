@@ -3,7 +3,7 @@ const BLOG = {
   author: "alexandre billereau - ChunkLab",
   email: "alexandre.website.billereau@gmail.com",
   link: "",
-  description: "This gonna be an awesome website.",
+  description: "Threejs Blog and other thing about 3d in web.",
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: "Canada/Atlantic", // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: "dark", // ['light', 'dark', 'auto'],
